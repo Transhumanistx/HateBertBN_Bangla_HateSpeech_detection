@@ -102,8 +102,8 @@ Each variant combines **BanglaBERT embeddings** with a different neural fusion h
 Run the training cells in the notebook.  
 Example configuration:
 ```python
-epochs = 10
-batch_size = 32
+epochs = 15
+batch_size = 8
 learning_rate = 2e-5
 ```
 
